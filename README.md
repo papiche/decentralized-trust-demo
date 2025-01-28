@@ -44,6 +44,8 @@ The general rules are:
 This algorithms is implemented in [src/models.js](src/models.js), feel free to use this to implement a trust system in your own social network.
 I plan on turning this into a [Scuttlebutt] plugin, and implementing it in most major [Scuttlebutt] clients.
 
+Introduced as [NIP-101 for Nostr](https://github.com/papiche/nostr-nips/blob/NIP-101/101.md#motivation)
+
 ## Benchmarks
 
 These benchmarks were run on an 8th Gen i7 Quad Core Laptop running Ubuntu 18.04. Run `npm run benchmark` to perform them on your own system.
